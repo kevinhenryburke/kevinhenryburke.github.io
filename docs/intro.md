@@ -1,5 +1,5 @@
 layout: page
 title: "Intro"
-permalink: /Intro/
+permalink: /intro/
 
 This is the intro content
