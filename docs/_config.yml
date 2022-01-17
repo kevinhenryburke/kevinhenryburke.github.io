@@ -1,3 +1,3 @@
-theme: just-the-docs
+theme: jekyll-theme-minimal
 title: Scaleable Architecture
-description: Here we are in the sidebar?
+description: Sidebar is description
